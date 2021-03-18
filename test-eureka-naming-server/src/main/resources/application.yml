@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: test-eureka-naming-server
+
+
+server:
+  port: ${port:8761}
+
+
